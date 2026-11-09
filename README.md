@@ -86,7 +86,7 @@ Campus Club is a modern and colorful college club website created for students.
 
 ## 📸 Website Screenshot
 
-![Club Website Screenshot](screenshot.png)
+![Club Website Screenshot](IMG_20261109_210544.jpg)
 
 ## 📸 Website Screenshot
 

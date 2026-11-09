@@ -80,18 +80,18 @@ Campus Club is a modern and colorful college club website created for students.
   Made with ❤️ by Raghav Mishra
 </p>
 
-## 📸 Website Screenshot
+## 📸 Home Page
 
 ![Club Website Screenshot](IMG_20261109_210529.jpg)
 
-## 📸 Website Screenshot
+## 📸 About Page
 
 ![Club Website Screenshot](IMG_20261109_210544.jpg)
 
-## 📸 Website Screenshot
+## 📸 Join Page
 
 ![Club Website Screenshot](IMG_20261109_210557.jpg)
 
-## 📸 Website Screenshot
+## 📸 Contact Page
 
 ![Club Website Screenshot](IMG_20261109_210642.jpg)
